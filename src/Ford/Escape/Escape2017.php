@@ -2,7 +2,7 @@
 namespace Ford\Escape;
 
 class Escape2017{
-	public function info(){
+	public static function info(){
 	echo "it is ford Escape2017";
 	}
 }
